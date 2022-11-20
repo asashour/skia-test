@@ -6,6 +6,8 @@ This tests https://bugs.chromium.org/p/skia/issues/detail?id=13894
 
 The expectation, that at some value, the RTL should have offset of 4, however it seems that the maximum is 3.
 
+It seems to originate from `globalClusterIndex` in Run.h.
+
 ## Linux results
 
 ### LTR
