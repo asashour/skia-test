@@ -1,0 +1,49 @@
+Skipping config nonrendering: Don't understand 'nonrendering'.
+0 srcs * 2 sinks + 1 tests == 1 tasks
+left: 0.5
+top: -0.47
+right: 45.84
+bottom: 30
+-100: 0
+0
+-90: 0
+0
+-80: 0
+0
+-70: 0
+0
+-60: 0
+0
+-50: 0
+0
+-40: 0
+0
+-30: 0
+0
+-20: 0
+0
+-10: 0
+0
+0: 0
+0
+10: 0
+1
+20: 0
+1
+30: 0
+2
+40: 0
+3
+50: 0
+3
+60: 0
+4
+70: 0
+4
+80: 0
+4
+90: 0
+4
+
+71MB RAM, 73MB peak, 0 queued, 0 active:
+Finished!
